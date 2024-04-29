@@ -1,0 +1,14 @@
+.navbar-nav {
+  margin: auto; 
+  display: table; 
+}
+
+.nav-item {
+  display: table-cell; 
+  float: none;
+}
+
+.nav-link {
+  text-align: center; 
+}
+
